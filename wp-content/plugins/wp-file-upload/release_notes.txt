@@ -1,0 +1,3 @@
+<!--  --><span><strong>Version 4.14.4</strong> is a regular update that restores .po files, found in /languages folder of the plugin, so that users can edit/change <strong>language translations</strong>.<br /><br />
+For more details about this version's changes please visit the Release Notes of the plugin's </span><a href="http://www.iptanus.com/wordpress-plugins/wordpress-file-upload/">support page</a><span>.</span><!--  -->
+<!--  -->
