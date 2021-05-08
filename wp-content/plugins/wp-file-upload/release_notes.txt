@@ -1,0 +1,3 @@
+<!--  --><span><strong>Version 4.15.0</strong> is a regular update that introduces some code improvements and bug fixes.<br /><br />
+For more details about this version's changes please visit the Release Notes of the plugin's </span><a href="http://www.iptanus.com/wordpress-plugins/wordpress-file-upload/">support page</a><span>.</span><!--  -->
+<!--  -->
